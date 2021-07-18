@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body, html {
+  background-color:#cccccc;
+  height: 80%;
+  margin: 0;
+  font-family: Arial;
+}
+
+.hero-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("a.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+
+</style>
+</head>
+<body>
+
+<div class="hero-image">
+  <div class="hero-text">
+<br><br><br><br><br><br>
+    <h1 style="font-size:50px">Dr.A.P.J. Abdul Kalam</h1>
+<p style="color:#bbbbbb;"><b>Avul Pakir Jainulabdeen Abdul Kalam (15 October 1931-27 July 2015) was an Indian aerospace 
+scientist and politician who served as the 11th President of India from 2002 to 2007.</b><p>
+
+<p><b><a href="#C1">Early life</a></b></p>
+<p><b><a href="#C2">Education</a></b></p>
+<p><b><a href="#C3">Career as Scientist</a></b></p>
+<p><b><a href="#C4">Presidency</a></b></p>
+<p><b><a href="#C5">Death</a></b></p>
+
+
+
+
+</div>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+<h2 id="C1">Early life</h2>
+<p>Avul Pakir Jainulabdeen Abdul Kalam was born on 15 October 1931 to a Tamil Muslim family in 
+the pilgrimage centre of Rameswaram on Pamban Island, then in the Madras Presidency and now in the State of Tamil Nadu. 
+His father Jainulabdeen was a boat owner and imam of a local mosque; his mother Ashiamma was a housewife.</p>
+
+<h2 id="C2">Education</h2>
+<p>After completing his education at the Schwartz Higher Secondary School, Ramanathapuram, 
+Kalam went on to attend Saint Joseph's College, Tiruchirappalli,
+ then affiliated with the University of Madras, from where he graduated in physics in 1954.
+ He moved to Madras in 1955 to study aerospace engineering in Madras Institute of Technology.</p>
+
+<h2 id="C3">Career as Scientist</h2>
+<p>After graduating from the Madras Institute of Technology in 1960, Kalam joined the Aeronautical
+ Development Establishment of the Defence Research and Development Organisation (by Press Information
+ Bureau, Government of India) as a scientist after becoming a member of the Defence Research & Development Service (DRDS).
+In 1969, Kalam was transferred to the Indian Space Research Organisation (ISRO) where he was the project director of India's
+ first Satellite Launch Vehicle (SLV-III) which successfully deployed the Rohini satellite in near-earth orbit in July 1980 
+</p>
+
+<h2 id="C4">Presidency</h2>
+<p>Kalam served as the 11th President of India, succeeding K. R. Narayanan. He won the 2002 presidential election with an electoral vote of 922,884, surpassing the 107,366 votes won by Lakshmi Sahgal. His term lasted from 25 July 2002 to 25 July 2007.
+On 10 June 2002, the National Democratic Alliance (NDA) which was in power at the time, expressed that they would nominate Kalam for the post of President,and both the Samajwadi Party and the Nationalist Congress Party backed his candidacy.
+After the Samajwadi Party announced its support for Kalam, Narayanan chose not to seek a second term in office, leaving the field clear.
+</p>
+
+
+<h2 id="C5">Death</h2>
+<p>On 27 July 2015, Kalam travelled to Shillong to deliver a lecture on "Creating a Livable Planet Earth" 
+at the Indian Institute of Management Shillong. While climbing a flight of stairs, he experienced some discomfort,
+ but was able to enter the auditorium after a brief rest.At around 6:35 p.m. IST, only five minutes into his lecture, 
+he collapsed.He was rushed to the nearby Bethany Hospital in a critical condition; upon arrival, he lacked a pulse
+ or any other signs of life.Despite being placed in the intensive care unit, Kalam was confirmed dead of a sudden 
+cardiac arrest at 7:45 p.m IST.
+ His last words, to his aide Srijan Pal Singh, were reportedly: "Funny guy! Are you doing well?"</p>
+
+
+
+
+ 
+</body>
+</html>
